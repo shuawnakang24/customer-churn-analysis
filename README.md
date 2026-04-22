@@ -9,6 +9,8 @@ This project focuses on identifying key drivers of customer churn and translatin
 ## 🎯 Business Problem
 Customer churn is a major challenge for subscription-based businesses. Understanding why customers leave allows companies to take proactive steps to improve retention and revenue.
 
+## 📂 Dataset
+This project uses the Telco Customer Churn dataset available publicly on Kaggle.
 ---
 
 ## 🛠 Tools Used
@@ -81,8 +83,7 @@ This analysis demonstrates how data visualization and business intelligence tool
 Shuawna Kang  
 Aspiring Data Analyst focused on data-driven decision-making and business insights.
 
-## 📂 Dataset
-This project uses the Telco Customer Churn dataset available publicly on Kaggle.
+
 
 ## 🎯 Impact
 This project demonstrates the ability to analyze customer behavior, identify churn drivers, and translate data into actionable business insights.
