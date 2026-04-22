@@ -1,4 +1,4 @@
-# Customer Churn Analysis (Power BI)
+#📊 Customer Churn Analysis (Power BI)
 
 ## 📊 Overview
 This project analyzes customer churn behavior using a telecom dataset to identify key factors driving customer attrition. The goal is to uncover actionable insights that can help improve customer retention and reduce churn.
@@ -41,7 +41,7 @@ Customer churn is a major challenge for subscription-based businesses. Understan
 ---
 
 ## 📊 Dashboard Preview
-
+![Dashboard](Churn.png)
 
 ---
 
@@ -65,3 +65,9 @@ This analysis demonstrates how data visualization and business intelligence tool
 ## 👤 Author
 Shuawna Kang  
 Aspiring Data Analyst focused on data-driven decision-making and business insights.
+
+## 📂 Dataset
+This project uses the Telco Customer Churn dataset available publicly on Kaggle.
+
+## 🎯 Impact
+This project demonstrates the ability to analyze customer behavior, identify churn drivers, and translate data into actionable business insights.
