@@ -42,7 +42,8 @@ Customer churn is a major challenge for subscription-based businesses. Understan
 
 ## 📊 Dashboard Preview
 ![Dashboard](Churn.png)
-![Contract Analysis](Contract vs Churn Chart.png)
+![Contract Analysis]([Contract vs Churn Chart.png](https://github.com/shuawnakang24/customer-churn-analysis/blob/main/Contract%20vs%20Churn%20Chart.png?raw=true))
+
 
 
 
