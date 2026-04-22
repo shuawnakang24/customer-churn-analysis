@@ -3,14 +3,15 @@
 ## 📊 Overview
 This project analyzes customer churn behavior using a telecom dataset to identify key factors driving customer attrition. The goal is to uncover actionable insights that can help improve customer retention and reduce churn.
 
+## 📂 Dataset
+This project uses the Telco Customer Churn dataset available publicly on Kaggle.
+
 ---
 This project focuses on identifying key drivers of customer churn and translating data findings into actionable business strategies.
 
 ## 🎯 Business Problem
 Customer churn is a major challenge for subscription-based businesses. Understanding why customers leave allows companies to take proactive steps to improve retention and revenue.
 
-## 📂 Dataset
-This project uses the Telco Customer Churn dataset available publicly on Kaggle.
 ---
 
 ## 🛠 Tools Used
