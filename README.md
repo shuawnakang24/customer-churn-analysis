@@ -51,6 +51,9 @@ Customer churn is a major challenge for subscription-based businesses. Understan
 ## 📊 Dashboard Preview
 ![Dashboard](Churn.png)
 
+![Contract Analysis](contract-churn.png)
+
+![Monthly Charges](charges-churn.png)
 
 
 
