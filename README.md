@@ -1,5 +1,11 @@
 #📊 Customer Churn Analysis (Power BI)
 
+## 📌 Project Highlights
+- Built an interactive Power BI dashboard to analyze churn drivers
+- Identified key risk factors including contract type, pricing, and tenure
+- Delivered actionable business recommendations to improve retention
+  
+
 ## 📊 Overview
 This project analyzes customer churn behavior using a telecom dataset to identify key factors driving customer attrition. The goal is to uncover actionable insights that can help improve customer retention and reduce churn.
 
